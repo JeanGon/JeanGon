@@ -5,8 +5,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jeanGonDev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanGonSilva&show_icons=true&theme=dracula)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGonSilva&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanGon&show_icons=true&theme=dracula)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanGon&layout=compact)
 
 
 ### Tecnologias que eu Uso!
